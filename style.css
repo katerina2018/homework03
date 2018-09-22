@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+background: #990909;
+color: #fff;
+    }
+    table{
+        width: 100%;
+    }
+    a {
+
+        color: #ee5519;
+       
+    }
+    li{
+        padding: 15px;  
+    }
